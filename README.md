@@ -1,3 +1,12 @@
+<!-- Readme Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Concert+One&pause=1000&center=true&width=435&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
+
+<!-- Lanyard Profile Readme by cnrad - https://github.com/cnrad/lanyard-profile-readme -->
+    <a href="https://discord.com/users/488040865349238806">
+      <img width=420vw align=top src="https://lanyard-profile-readme.vercel.app/api/288362986991648778?theme=dark&bg=2E343E"/>
+    </a>
+  <br><br/>
+
 ## Social
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)](https://discord.com/users/488040865349238806)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=for-the-badge)](https://twitter.com/tassian8261)
